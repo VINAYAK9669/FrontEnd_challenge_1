@@ -73,7 +73,7 @@ body {
   border-radius: 50%;
 }
 .dice_button:hover.dice_button::before {
-  box-shadow: 0 0 10px 1px hsl(150, 100%, 66%);
+  box-shadow: 0 0 10px 5px hsl(150, 100%, 66%);
 }
 .attribution {
   font-size: 11px;
