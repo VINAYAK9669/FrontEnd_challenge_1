@@ -14,10 +14,10 @@ The challenge is to build out an advice generator app using the Advice Slip API 
 ### 📸 Screenshots
 
 #### 🏠 Main Page
-![Main Page](https://example.com/main-page-screenshot.png)
+![Desktop Design]("./readmeImages/Desktop_image_readme.png")
 
 #### 📱 Responsive Design
-![Responsive Design](https://example.com/responsive-design-screenshot.png)
+![Small Device Design](https://example.com/responsive-design-screenshot.png)
 
 #### ✨ Interactive Elements
 ![Interactive Elements](https://example.com/interactive-elements-screenshot.png)
