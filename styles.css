@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Manrope", sans-serif;
+  display: flex;
+  flex-direction: column;
+  row-gap: 4rem;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: hsl(218, 23%, 16%);
+  /* position: ; */
+}
+.wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-weight: 800;
+  border-radius: 11px;
+  background-color: hsl(217, 19%, 24%);
+  position: relative;
+}
+
+.advice_id {
+  color: hsl(150, 100%, 66%);
+  margin-bottom: 1rem;
+  letter-spacing: 5px;
+  font-size: small;
+}
+.advice_text_container {
+  font-size: 28px;
+  color: hsl(193, 38%, 86%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.divider {
+  margin: 1rem 0rem;
+}
+.divider .image_mobile {
+  display: none;
+}
+.divider .image_desktop {
+  display: block;
+}
+.dice_button {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  height: 50px;
+  width: 50px;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dice_button::before {
+  content: "";
+  position: absolute;
+  height: 120%;
+  width: 120%;
+  background-color: hsl(150, 100%, 66%);
+  z-index: -1;
+  border-radius: 50%;
+}
+.dice_button:hover.dice_button::before {
+  box-shadow: 0 0 10px 1px hsl(150, 100%, 66%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #efffaa;
+}
+.attribution a {
+  color: #fff;
+}
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    max-width: 325px;
+  }
+  .divider .image_mobile {
+    display: block;
+  }
+  .divider .image_desktop {
+    display: none;
+  }
+}
