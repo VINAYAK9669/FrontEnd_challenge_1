@@ -8,19 +8,18 @@ The challenge is to build out an advice generator app using the Advice Slip API 
 
 ### 🌐 Links
 
-- [👉 Solution](Your Solution URL)
 - [🌍 Live Site](https://frontendmentor-challenge1-vinaykittad.netlify.app/)
 
 ### 📸 Screenshots
 
-#### 🏠 Main Page
-<img src="./readmeimages/Desktop_image_readme.png" alt="DEKTOP DESIGN">
+#### 🏠 Desktop
+<img src="./readmeimages/Desktop_image_readme.png" alt="DESIGN">
 
-#### 📱 Responsive Design
-<img src="./readmeimages/Mobile_image_readme" alt="DEKTOP DESIGN">
+#### 📱 Small Devices
+<img src="./readmeimages/Mobile_image_readme.png" alt="DESIGN">
 
 #### ✨ Interactive Elements
-<img src="./readmeimages/Desktop_image_readme" alt="DEKTOP DESIGN">
+<img src="readmeimages/Mobile_image_Hover_readme.png" alt="DESIGN">
 
 ### 🔥 The Challenge
 
