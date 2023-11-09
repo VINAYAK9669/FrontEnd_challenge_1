@@ -1,17 +1,28 @@
-# Advice Generator App
+# 🚀 Advice Generator App
 
 ## Challenge on Frontend Mentor
 
-### Overview
+### 🌟 Overview
 
 The challenge is to build out an advice generator app using the Advice Slip API and make it look as close to the design provided by Frontend Mentor.
 
-### Links
+### 🌐 Links
 
-- Solution URL: []
-- Live Site URL: [https://frontendmentor-challenge1-vinaykittad.netlify.app/](Click for DEMO)
+- [👉 Solution](Your Solution URL)
+- [🌍 Live Site](https://frontendmentor-challenge1-vinaykittad.netlify.app/)
 
-### The Challenge
+### 📸 Screenshots
+
+#### 🏠 Main Page
+![Main Page](https://example.com/main-page-screenshot.png)
+
+#### 📱 Responsive Design
+![Responsive Design](https://example.com/responsive-design-screenshot.png)
+
+#### ✨ Interactive Elements
+![Interactive Elements](https://example.com/interactive-elements-screenshot.png)
+
+### 🔥 The Challenge
 
 Users should be able to:
 
@@ -19,23 +30,24 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Built with
+### 🛠️ Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-### What I Learned/Implemented
+### 🎓 What I Learned/Implemented
 
 - API Fetching
 - Use of `:before` for background effects
 - Responsive web design
 - Problem-solving approach
 
-## Author
+## 👤 Author
 
-- Website: [Your GitHub Website]
-- Frontend Mentor Profile: [[Your Frontend Mentor Profile](https://www.frontendmentor.io/profile/VINAYAK9669)]
+- [GitHub Profile](https://github.com/VINAYAK9669)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/VINAYAK9669)
 
 ---
 
+**Live Demo:** [https://frontendmentor-challenge1-vinaykittad.netlify.app/]
