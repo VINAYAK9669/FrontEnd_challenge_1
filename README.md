@@ -14,7 +14,7 @@ The challenge is to build out an advice generator app using the Advice Slip API 
 ### 📸 Screenshots
 
 #### 🏠 Main Page
-<img src="./readmeimages/Desktop_image_readme" alt="DEKTOP DESIGN">
+<img src="./readmeimages/Desktop_image_readme.png" alt="DEKTOP DESIGN">
 
 #### 📱 Responsive Design
 <img src="./readmeimages/Mobile_image_readme" alt="DEKTOP DESIGN">
