@@ -45,7 +45,7 @@ Users should be able to:
 ## 👤 Author
 
 - [GitHub Profile](https://github.com/VINAYAK9669)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/VINAYAK9669)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/solutions/api-fetching-responsive-design-css-for-a-dynamic-user-experience-wy4yydAmii)
 
 ---
 
