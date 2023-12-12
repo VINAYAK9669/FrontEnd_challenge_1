@@ -9,6 +9,7 @@ The challenge is to build out an advice generator app using the Advice Slip API 
 ### 🌐 Links
 
 - [🌍 Live Site](https://frontendmentor-challenge1-vinaykittad.netlify.app/)
+- [Check out the video demo from LinkedIn Post](https://www.linkedin.com/posts/vinay1998_frontenddevelopment-reactjs-react-activity-7129513375952240640-KlOW?utm_source=share&utm_medium=member_desktop)
 
 ### 📸 Screenshots
 
